@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.openejb:mbean-annotation-api:5.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/mbean-annotation-api/5.0.0-SNAPSHOT/mbean-annotation-api-5.0.0-20150513.040716-308.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/mbean-annotation-api/5.0.0-SNAPSHOT/mbean-annotation-api-5.0.0-20150513.040716-308-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/mbean-annotation-api/5.0.0-SNAPSHOT/mbean-annotation-api-5.0.0-20150513.040716-308-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

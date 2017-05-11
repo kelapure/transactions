@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.bval:bval-jsr:1.1.0-alpha-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/bval/bval-jsr/1.1.0-alpha-SNAPSHOT/bval-jsr-1.1.0-alpha-20150423.081852-38.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/bval/bval-jsr/1.1.0-alpha-SNAPSHOT/bval-jsr-1.1.0-alpha-20150423.081852-38-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/bval/bval-jsr/1.1.0-alpha-SNAPSHOT/bval-jsr-1.1.0-alpha-20150423.081852-38-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

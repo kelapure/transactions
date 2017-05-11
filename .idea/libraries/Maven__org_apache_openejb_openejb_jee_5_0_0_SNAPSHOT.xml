@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.openejb:openejb-jee:5.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-jee/5.0.0-SNAPSHOT/openejb-jee-5.0.0-20150513.040731-307.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-jee/5.0.0-SNAPSHOT/openejb-jee-5.0.0-20150513.040731-307-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-jee/5.0.0-SNAPSHOT/openejb-jee-5.0.0-20150513.040731-307-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
